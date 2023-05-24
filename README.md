@@ -1,2 +1,9 @@
-# basic-accounting-backend
-Basic Accounting Django Backend API
+# Basic Books Django Backend
+
+Basic Books features inlcude:
+
+    * Invite Employees
+    * Managing Customers and Vendors
+    * Tracking Expenses
+    * Tracking Income
+    * Inventory 
